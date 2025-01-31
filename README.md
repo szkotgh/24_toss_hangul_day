@@ -1,14 +1,13 @@
-# 토스 한글날 이벤트 매크로
+# 24_toss_hangul_day
 ## How to use
-사용하기 전, 컴퓨터에서 실시간으로 핸드폰 화면을 불러오세요.<br>
-윈도우에서 내 휴대폰과 연결을 사용해보세요.<br>
-맥을 위한 프로그램은 아니에요..<br><br>
+사용하기 전, 컴퓨터에 실시간으로 핸드폰 화면을 불러오세요.<br>
+윈도우에서는 내 휴대폰과 연결을 사용해보세요. 맥은 지원하지 않습니다.<br>
 
 핸드폰 화면을 잘 불러왔다면, 코드에서 캡쳐될 구역을 설정해야합니다.<br>
 DISPLAY_RIGHT_TOP = 캡쳐될 좌상단 좌표(x, y)<br>
 DISPLAY_LEFT_BOTTOM = 캡쳐될 우하단 좌표(x, y)<br>
 설정 후, 캡쳐가 아래와 같이 되어야 합니다.<br>
-![올바른캡쳐](https://raw.githubusercontent.com/suzukaotto/24_toss_hangul_event/refs/heads/master/region_capture.png)<br><br>
+![올바른캡쳐](https://raw.githubusercontent.com/szkotgh/24_toss_hangul_event/refs/heads/master/region_capture.png)<br><br>
 
 메뉴 선택은 메뉴 명에 해당하는 숫자를 입력하면 됩니다.<br><br>
 
